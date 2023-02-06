@@ -1,9 +1,14 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img  src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+<br/>
+<br/>
 
-My name is Derah and I am a frontend developer who is passionate about turning ideas into high performing web applications.  
+<div align="center">
+
+<h2>My name is Derah and I am a frontend developer who is passionate about turning ideas into high performing web applications.</h2>
+</div>
   
 
 <br/>  
