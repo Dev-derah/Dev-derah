@@ -49,8 +49,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-derah&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-derah&show_icons=true&locale=en&layout=compact" alt="dev-derah" /></p>
 
