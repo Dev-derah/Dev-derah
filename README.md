@@ -48,6 +48,12 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-derah&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-derah&show_icons=true&locale=en&layout=compact" alt="dev-derah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-derah&show_icons=true&locale=en" alt="dev-derah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-derah&" alt="dev-derah" /></p>
+
 <br/>  
 
 ## Connect with me  
