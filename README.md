@@ -2,12 +2,13 @@
 
 # 🚀 Derah - AI Automation & Web Developer
 
-**Helping businesses scale with AI-powered automation & cutting-edge web development.**
+**I specialize in AI-powered automations, intelligent bots, and high-performance web applications that drive business growth.I focus on user-centric, data-driven solutions that maximize efficiency and impact.**
 
-🔹 **Freelance Web Developer & AI Automations Expert**  
-🔹 **Building AI agents, scraping tools, & automation scripts**  
-🔹 **Optimizing workflows & increasing efficiency with AI**  
-🔹 **Turning ideas into high-performing web applications**
+🔹 **AI & Automation: AI agents, chatbot development, intelligent workflows** 
+
+🔹 **Web Development: Scalable full-stack applications, automation dashboards** 
+
+🔹 **Data-Driven Solutions: AI-powered analytics, real-time data processing**
 
 ---
 
