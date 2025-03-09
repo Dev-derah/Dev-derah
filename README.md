@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&width=700&lines=Hey!+I'm+Derah+%F0%9F%91%8B+%7C+AI+Automations+%26+Web+Developer;I+build+automation+tools%2C+AI+agents%2C+%26+high-performing+web+apps;Optimizing+workflows+with+AI+%7C+Scaling+businesses+with+tech)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&width=700&lines=Hey!+I'm+Derah+%F0%9F%91%8B+%7C+AI+Automations+%26+Web+Developer;I+build+automation+tools+%26+AI+agents;I+develop+high-performing+web+apps;Optimizing+workflows+with+AI;Scaling+businesses+with+tech)
+
 
 # 🚀 Derah - AI Automation & Web Developer
 
